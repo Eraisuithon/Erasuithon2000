@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on finishing my uni
+- 🔭 I’m currently working in Deloitte as a Developer
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with finding a job
