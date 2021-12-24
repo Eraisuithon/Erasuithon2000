@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working in Deloitte as a Developer
+- 🔭 I’m currently working in Deloitte as a Full-Stack Developer
 - 🌱 I’m currently learning SalesForce
 - 👯 I’m looking to collaborate on Python <!-- - 🤔 I’m looking for help with finding a job -->
 - 💬 Ask me about anything
